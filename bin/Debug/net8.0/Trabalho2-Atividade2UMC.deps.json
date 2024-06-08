@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Trabalho2-Atividade2UMC/1.0.0": {
+        "runtime": {
+          "Trabalho2-Atividade2UMC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabalho2-Atividade2UMC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

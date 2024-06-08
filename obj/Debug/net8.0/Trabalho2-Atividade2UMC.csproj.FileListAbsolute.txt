@@ -1,0 +1,15 @@
+D:\Programação\.NET\Trabalho2-Atividade2UMC\bin\Debug\net8.0\Trabalho2-Atividade2UMC.exe
+D:\Programação\.NET\Trabalho2-Atividade2UMC\bin\Debug\net8.0\Trabalho2-Atividade2UMC.deps.json
+D:\Programação\.NET\Trabalho2-Atividade2UMC\bin\Debug\net8.0\Trabalho2-Atividade2UMC.runtimeconfig.json
+D:\Programação\.NET\Trabalho2-Atividade2UMC\bin\Debug\net8.0\Trabalho2-Atividade2UMC.dll
+D:\Programação\.NET\Trabalho2-Atividade2UMC\bin\Debug\net8.0\Trabalho2-Atividade2UMC.pdb
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.AssemblyInfoInputs.cache
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.AssemblyInfo.cs
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.csproj.CoreCompileInputs.cache
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.sourcelink.json
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.dll
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\refint\Trabalho2-Atividade2UMC.dll
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.pdb
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\Trabalho2-Atividade2UMC.genruntimeconfig.cache
+D:\Programação\.NET\Trabalho2-Atividade2UMC\obj\Debug\net8.0\ref\Trabalho2-Atividade2UMC.dll

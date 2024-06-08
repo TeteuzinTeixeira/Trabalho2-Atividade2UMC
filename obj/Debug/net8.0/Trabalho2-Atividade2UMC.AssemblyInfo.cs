@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trabalho2-Atividade2UMC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03b059b0867c809fb2e8c02e89d0d47c96921774")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2741fb7474e316456b0e15cd4e96fd0a0928b252")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trabalho2-Atividade2UMC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trabalho2-Atividade2UMC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
